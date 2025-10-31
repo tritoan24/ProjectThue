@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ProjectThue",
+			"path": "."
+		},
+		{
+			"name": "image",
+			"path": "../CloneGit/image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProjectThue"
+	}
+}
